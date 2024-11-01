@@ -48,7 +48,7 @@ Learning the building blocks— **Java, JavaScript, Python, C, C#, SQL, PHP**—
 I’d love to connect, discuss ideas, and share insights. Reach out, and let’s create something extraordinary!
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/fatima-hamdouch-2a812b304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Let's Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:hamdouchfatima168@gmail.com">
