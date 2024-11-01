@@ -4,7 +4,7 @@
   <i>Curious coder, dedicated creator, and future-ready problem solver.</i>
 </p>
 
----
+
 
 ### 🌍 **Where Code Meets Curiosity**
 
@@ -14,20 +14,13 @@ Welcome to my corner of the coding world! Here, I’m building projects, explori
 - 🌍 Building systems that bridge needs with innovative solutions.
 - 🎉 Taking small steps to make big ideas happen!
 
----
 
-### 📚 **The Chapters of My Journey**
 
-🧩 **Chapter One: Foundations**  
+ Foundations**  
 Learning the building blocks— **Java, JavaScript, Python, C, C#, SQL, PHP**—and loving every step. From debugging to design, each line of code feels like solving a puzzle.
 
-🔍 **Chapter Two: Real Projects**  
-Diving into the **Hall Booking Project** that’s evolving into a full **Event Management System**. This is where my skills meet real-world needs.
 
-🎓 **Chapter Three: Goals and Growth**  
-2024 marks the year of refining my **ASP.NET** and web development skills, excelling in my senior project, and creating a professional portfolio.
 
----
 
 ### 🛠️ **My Developer Toolbox**
 
@@ -41,15 +34,13 @@ Diving into the **Hall Booking Project** that’s evolving into a full **Event M
 
 > *Favorite tools: Visual Studio, Planner Template, and GitHub for version control!*
 
----
-
 
 #### **💡 Collaborating and Mentoring**
 - Tech teacher to my sister and anyone else interested. I enjoy the “Aha!” moments, and nothing beats the thrill of solving a problem together.
 
 ---
 
-### 🎨 **Peek Into My Projects**
+
 
 
 ---
