@@ -8,7 +8,7 @@
 
 ### 🌍 **Where Code Meets Curiosity**
 
-Welcome to my corner of the coding world! Here, I’m building projects, exploring new technologies, and transforming ideas into interactive experiences. I’m a **Lebanese software engineering student** passionate about:
+Welcome to my corner of the coding world! Here, I’m building projects, exploring new technologies, and transforming ideas into interactive experiences. I’m a **Lebanese Computer science student** passionate about:
 
 - 🌱 Making tech intuitive and impactful.
 - 🌍 Building systems that bridge needs with innovative solutions.
@@ -43,7 +43,6 @@ Diving into the **Hall Booking Project** that’s evolving into a full **Event M
 
 ---
 
-### 🌟 **Highlights and Moments**
 
 #### **💡 Collaborating and Mentoring**
 - Tech teacher to my sister and anyone else interested. I enjoy the “Aha!” moments, and nothing beats the thrill of solving a problem together.
