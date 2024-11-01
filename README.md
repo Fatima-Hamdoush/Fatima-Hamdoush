@@ -38,21 +38,10 @@ Learning the building blocks— **Java, JavaScript, Python, C, C#, SQL, PHP**—
 #### **💡 Collaborating and Mentoring**
 - Tech teacher to my sister and anyone else interested. I enjoy the “Aha!” moments, and nothing beats the thrill of solving a problem together.
 
----
 
 
 
 
----
-
-### ✨ **Stats That Tell My Story**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent" width="400" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=transparent" width="400" alt="GitHub Streak"/>
-</p>
-
----
 
 ### 📬 **Let’s Connect and Collaborate**
 
@@ -67,10 +56,10 @@ I’d love to connect, discuss ideas, and share insights. Reach out, and let’s
   </a>
 </p>
 
----
+
 
 > **“Every line of code is a step forward, a problem solved, and a skill gained.”**  
-> Thanks for visiting—here’s to more code, more creativity, and more meaningful projects! 🌈
+> Thanks for visiting—here’s to more code, more creativity, and more meaningful projects! 
 
 
 <!---
