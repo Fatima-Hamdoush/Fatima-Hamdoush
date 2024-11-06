@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, Traveler! I'm Tima 🌍✨</h1>
+<h1 align="center">Greetings, Traveler! </h1>
 
 <p align="center">
   <i>Curious coder, dedicated creator, and future-ready problem solver.</i>
