@@ -21,16 +21,14 @@ Learning the building blocks— **Java, JavaScript, Python, C, C#, SQL, PHP**—
 
 
 
-
 ### 🛠️ **My Developer Toolbox**
+💻 Languages : Java, JavaScript, Python, C, C#, SQL, PHP<br> 
+ 🌐 Web Development : HTML, CSS, ADO.NET<br> 
+ 🔧 Frameworks & Libraries : .NET Core <br>
+ 📊 Database :  MySQL   <br>
+ 🔄 Version Control : Git<br>
 
-| 💻 Languages           | 🌐 Web Development       | 🔧 Frameworks & Libraries | 📊 Database |
-|------------------------|--------------------------|---------------------------|-------------|
-| Java, JavaScript, Python, C, C#, SQL, PHP | HTML, CSS, ADO.NET   | .NET Core                 | MySQL       |
-
-| 🔄 Version Control  | 🛠️ Additional Tools |
-|---------------------|---------------------|
-| Git                 | Visual Studio, Planner Templates |
+ 
 
 > *Favorite tools: Visual Studio, Planner Template, and GitHub for version control!*
 
